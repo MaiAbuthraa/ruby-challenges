@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=Nzd_BASEE8Q&list=PLm8ctt9NhMNXP7FODFNrQhB6Dg-z_X
 ## Code Challenge
 To get a better idea of your current development skills, we'd like for you to complete a code challenge:
 
-1. Write your code in Ruby language
+1. Write your code in your favorite language
 2. Do not require any for-pay software.
 3. Send the Github link or the code to my email:
  - Email [mai.abuthraa@gmail.com](mailto:mai.abuthraa@gmail.com), 
