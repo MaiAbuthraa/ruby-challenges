@@ -31,12 +31,10 @@ You can go to [https://try.ruby-lang.org](https://try.ruby-lang.org/playground/)
 
 ## Submission Instructions:
 
-### Option 1: Github (preferred)
+### ByGithub (preferred)
 1. Fork the project into your own Github repo and make it publicly readable.
-1. Commit directly into your repo.
-1. Send me the link to the repo once you are done.
-
-### Option 2: Email me the code and output
+2. Commit directly into your repo.
+3. Send the  repo link with registration from once you are done.
 
 
 # challenges Description
