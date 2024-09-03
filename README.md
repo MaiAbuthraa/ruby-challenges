@@ -44,5 +44,4 @@ This array is missing the number 3. The goal of this problem is to write code th
 
 
 #### bonus point 
-- if you use `thor` http://whatisthor.com/, You are free to use it as you want, show us your creativity
 - Write a simple input validation code. 
