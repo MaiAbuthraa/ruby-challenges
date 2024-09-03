@@ -31,7 +31,7 @@ You can go to [https://try.ruby-lang.org](https://try.ruby-lang.org/playground/)
 
 ## Submission Instructions:
 
-### ByGithub (preferred)
+### By Github 
 1. Fork the project into your own Github repo and make it publicly readable.
 2. Commit directly into your repo.
 3. Send the  repo link with registration from once you are done.
