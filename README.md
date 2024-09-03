@@ -16,23 +16,13 @@ To get a better idea of your current development skills, we'd like for you to co
 
 1. Write your code in your favorite language
 2. Do not require any for-pay software.
-3. Send the Github link or the code to my email:
- - Email [mai.abuthraa@gmail.com](mailto:mai.abuthraa@gmail.com), 
- - Email subject `Gaza Sky Geeks - Ruby Challenges -  ${YOUR-NAME}`
-
-
-## Options for creating the program:
-
-### Option 1: Fork this repo into your own Github account
-If you have a github account, or if you create one; you can Fork this repo into your github account, then clone it to your local machine.  You can then write your program in the cloned environment and add commits as you make progress.
-
-### Option 2: Use online platform: 
-You can go to [https://try.ruby-lang.org](https://try.ruby-lang.org/playground/)  and write and verify your program on that site. You can then submit the actual code through email.
+3. Copy the Github link into registration from:
 
 ## Submission Instructions:
 
 ### By Github 
 1. Fork the project into your own Github repo and make it publicly readable.
+If you have a github account, or if you create one; you can Fork this repo into your github account, then clone it to your local machine.  You can then write your program in the cloned environment and add commits as you make progress.
 2. Commit directly into your repo.
 3. Send the  repo link with registration from once you are done.
 
