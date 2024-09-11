@@ -1,0 +1,13 @@
+def next_fibonacci(sequence):
+    # Ensure the sequence has at least two numbers
+    if len(sequence) < 2:
+        return "Sequence must contain at least two numbers."
+
+    # The next number in the sequence is the sum of the last two numbers
+    next_number = sequence[-1] + sequence[-2]
+    return next_number
+
+# Example usage
+sequence = [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
+next_number = next_fibonacci(sequence)
+print("The next number in the sequence is:", next_number)
